@@ -45,9 +45,9 @@ const Hero = () => {
                 Tushar Bajaj
               </span>
             </h1>
-            {/* <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              A Software Developer <br className="sm:block hidden" />
-            </p> */}
+            <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
+              Software Developer with diverse experience in frontend and backend technologies. <br className="sm:block hidden" />
+            </p>
           </div>
           <div
             className="w-screen flex flex-col items-start 
